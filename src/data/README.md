@@ -2,12 +2,6 @@
 
 Projeto React desenvolvido como parte da avaliação de Front-end, seguindo o primeiro tema sugerido: catálogo de jogos.
 
-## Como executar
-
-1. Instale as dependências:
-   npm install
-2. Inicie o projeto:
-   npm run dev
 
 ## Funcionalidades
 
