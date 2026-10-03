@@ -1,4 +1,4 @@
-# Catálogo Geek
+# P1 - DDM: Catálogo Geek
 
 Projeto React desenvolvido como parte da avaliação de Front-end, seguindo o primeiro tema sugerido: catálogo de jogos.
 
